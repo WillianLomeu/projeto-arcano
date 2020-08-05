@@ -1,0 +1,13 @@
+.home {
+    height: 100vh;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    font-size: 2.5rem;
+    color: #fff;
+    font-weight: 500;
+}
